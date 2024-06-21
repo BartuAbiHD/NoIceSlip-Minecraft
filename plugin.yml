@@ -1,0 +1,10 @@
+name: NoIceSlip
+version: 1.1
+main: com.bartuabihd.noiceslip.NoIceSlip
+author: BartuAbiHD
+description: NoIceSlip Plugin.
+
+commands:
+  noiceslip:
+    description: NoIceSlip Command.
+    usage: /noiceslip
